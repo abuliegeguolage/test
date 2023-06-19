@@ -16,3 +16,4 @@ const mysql = require('mysql2');
 })();
 
 console.log('雞你太美');
+console.log('雞你實在是太美');
